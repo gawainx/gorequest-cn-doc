@@ -2,7 +2,7 @@
 
 [Gorequest](https://github.com/parnurzeal/gorequest)
 
-By Gawain Antarx.
+Chinese Document By Gawain Antarx.
 
 ## License
 
